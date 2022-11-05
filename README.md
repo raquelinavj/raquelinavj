@@ -1,7 +1,7 @@
 
 <h2> 👋 Hi, I'm Raquel Velasco! <img src="https://media.tenor.com/dHnvbuuXC9wAAAAj/stitch-happy.gif" width="100"></h2>
 <img align='right' src="https://media4.giphy.com/media/UVZ1M8bVwpaF7MTYNk/giphy.gif?cid=790b7611c7082afb66c6da440beec0fccb862ce7126d2c85&rid=giphy.gif&ct=s" width="230">
-<p><em>Studying Bachelor Degree in Economics at <a href="https://www.urv.cat/ca/">University of Rovira and Virgili</a><img src="https://img1.picmix.com/output/stamp/normal/9/6/0/2/1162069_e5f8e.gif" width="40"><img src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif" width="100"></br>Self-taught in coding <img src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width="40"> 
+<p><em>Studying Bachelor Degree in Economics at <a href="https://www.urv.cat/ca/">University Rovira and Virgili</a><img src="https://img1.picmix.com/output/stamp/normal/9/6/0/2/1162069_e5f8e.gif" width="40"><img src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif" width="100"></br>Self-taught in coding <img src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width="40"> 
 </em></p>
 
 [![GitHub](https://img.shields.io/github/followers/raquelinavj?label=follow&style=social)](https://github.com/raquelinavj)
